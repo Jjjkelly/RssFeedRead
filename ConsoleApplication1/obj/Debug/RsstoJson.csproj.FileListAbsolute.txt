@@ -1,0 +1,19 @@
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\RsstoJson.csprojResolveAssemblyReference.cache
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\jjjke\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jkelly\Desktop\RssFeedRead\ConsoleApplication1\obj\Debug\RsstoJson.csprojResolveAssemblyReference.cache
+C:\Users\jkelly\Source\Repos\GIT Sandbox\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jkelly\Source\Repos\GIT Sandbox\RssFeedRead\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jkelly\Source\Repos\GIT Sandbox\RssFeedRead\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
