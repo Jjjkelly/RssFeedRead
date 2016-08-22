@@ -11,7 +11,7 @@ namespace RsstoJson
     {
 
         public static string FeedsFolder = "feeds";
-        public static string RssFeed = "feeds/Rss.Json";
+        public static string RssFeed = "feeds/"+DateTime.Now.ToString("yyyy-MM-dd-HH")+".json";
         public static string FileRead = "";
 
        public static XmlDocument rssXmlDoc = new XmlDocument();

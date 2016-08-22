@@ -19,20 +19,7 @@ namespace RsstoJson
 
             XmlNodeList rssNodes = RssFeedSetup.rssXmlDoc.SelectNodes("rss/channel/item");
 
-            if (!Directory.Exists(RssFeedSetup.FeedsFolder))
-            {
-                Directory.CreateDirectory(RssFeedSetup.FeedsFolder);
-            }
-
-            if (!File.Exists(RssFeedSetup.RssFeed))
-            {
-                File.Create(RssFeedSetup.RssFeed).Close();
-            }
-            else
-            {
-                 RssFeedSetup.FileRead = File.ReadAllText(RssFeedSetup.RssFeed);
-            }
-      
+            DirectoryScan.createDataString();                                 
 
             foreach (XmlNode rssNode in rssNodes)
             {

@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DirectoryScan.cs" />
     <Compile Include="RssFeedSetup.cs" />
     <Compile Include="RssItems.cs" />
     <Compile Include="RssToJson.cs" />
