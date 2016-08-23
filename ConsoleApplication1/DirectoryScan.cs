@@ -15,12 +15,13 @@ namespace RsstoJson
 
         public static void createDataString()
         {
-            Array files = Directory.GetFiles(RssFeedSetup.FeedsFolder);
-
+     
             if (!Directory.Exists(RssFeedSetup.FeedsFolder))
             {
                 Directory.CreateDirectory(RssFeedSetup.FeedsFolder);
             }
+
+            Array files = Directory.GetFiles(RssFeedSetup.FeedsFolder);
 
             if (!File.Exists(RssFeedSetup.RssFeed))
             {

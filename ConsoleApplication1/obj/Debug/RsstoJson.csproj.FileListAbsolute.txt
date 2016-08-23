@@ -25,3 +25,11 @@ C:\Users\jjjke\Source\Repos\RssFeed\ConsoleApplication1\bin\Debug\ConsoleApplica
 C:\Users\jjjke\Source\Repos\RssFeed\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
 C:\Users\jjjke\Source\Repos\RssFeed\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\jjjke\Source\Repos\RssFeed\ConsoleApplication1\obj\Debug\RsstoJson.csprojResolveAssemblyReference.cache
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jkelly\Source\Repos\Test\RssFeedRead\ConsoleApplication1\obj\Debug\RsstoJson.csprojResolveAssemblyReference.cache
